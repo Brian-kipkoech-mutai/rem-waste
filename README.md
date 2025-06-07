@@ -35,7 +35,7 @@ A modern, responsive React application for selecting skip hire sizes with a clea
 
 1. Clone the repository:
 \`\`\`bash
-git clone <repository-url>
+git clone https://github.com/Brian-kipkoech-mutai/rem-waste.git
 cd skip-hire-selection
 \`\`\`
 
